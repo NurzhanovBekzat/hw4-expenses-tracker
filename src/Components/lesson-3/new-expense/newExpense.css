@@ -1,0 +1,9 @@
+.expenseNew{
+    /* margin-left: 220px; */
+    background-color:rgb(117, 50, 146);
+    width: 600px;
+    height: 100px;
+    text-align: center;
+    padding:50px 20px 10px 20px;
+    border-radius: 10px
+}

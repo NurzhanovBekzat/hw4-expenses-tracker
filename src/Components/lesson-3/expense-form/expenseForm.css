@@ -1,0 +1,27 @@
+.expenseForm{
+    text-align: left;
+    color:#ffffff;
+    background-color: rgb(117, 50, 146);
+    width: 1040px;
+    height: 400px;
+    margin-left: -20px;
+    border-radius: 10px;
+}
+.buttonExpenseForm{
+    display: flex;
+    margin-left: 520px;
+}
+.formInputTextAndNumber{
+    display: flex;
+    margin-left: 85px;
+}
+.dataInput{
+    width: 200px;
+    margin-left: 85px;
+}
+.divFirst{
+    margin-left: 5px;
+}
+.buttonOtmena{
+    margin-right: 30px;
+}
